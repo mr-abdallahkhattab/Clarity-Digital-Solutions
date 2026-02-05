@@ -1,22 +1,22 @@
 # Clarity - Digital Solutions Landing Page
 
-A premium, responsive landing page for a digital solutions company. The project focuses on clean structure, strong visual hierarchy, and accessible markup, making it ready for a professional GitHub portfolio or client presentation.
+A modern, responsive landing page for a digital solutions company. Built with clean structure, reusable components, and accessible markup so it looks professional on GitHub and is easy to present to clients.
 
-## Preview
-![Clarity hero preview](images/crops/hero.png)
+## Overview
+- Responsive layout powered by Bootstrap 5
+- Mega-menu navigation with clear information hierarchy
+- Hero, services, technology tabs, testimonials, FAQ, and contact sections
+- Clean typography, gradients, and subtle UI motion
+- Accessible navigation with a keyboard-friendly skip link
 
-![Showcase section](images/crops/showcase.png)
-![Services section](images/crops/services.png)
-![Technology section](images/crops/tech.png)
-![Contact section](images/crops/contact.png)
-
-## Features
-- Showcase-ready layout with image-led storytelling
-- Responsive UI built on Bootstrap 5
-- Mega-menu navigation and clear section hierarchy
-- Hero, showcase, services, technology tabs, testimonials, FAQ, and contact sections
-- Refined typography, gradients, and soft motion
-- Accessible navigation with keyboard-friendly skip link
+## Sections
+- Hero
+- Services
+- Technology
+- Testimonials
+- FAQ
+- Contact
+- Footer
 
 ## Tech Stack
 - HTML5
@@ -31,10 +31,8 @@ A premium, responsive landing page for a digital solutions company. The project 
 │   ├── bootstrap.min.css
 │   └── style.css
 ├── images/
-│   ├── crops/
-│   ├── avatar-*.jpg
 │   ├── hero-img.png
-│   └── site-preview.png
+│   └── avatar-*.jpg
 ├── js/
 │   ├── bootstrap.bundle.min.js
 │   └── main.js
