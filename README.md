@@ -2,6 +2,9 @@
 
 A modern, responsive landing page for a digital solutions company. Built with clean structure, reusable components, and accessible markup so it looks professional on GitHub and is easy to present to clients.
 
+## Preview
+![Hero preview](images/hero-preview.png)
+
 ## Overview
 - Responsive layout powered by Bootstrap 5
 - Mega-menu navigation with clear information hierarchy
